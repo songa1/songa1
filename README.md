@@ -6,7 +6,7 @@ I am Achille Songa, a full-stack software engineer based in Rwanda.
 - 🌱 I’m currently learning C Programming
 - 👯 I’m looking to collaborate on web development projects
 - 🤔 I’m looking for help with joining communities and teams
-- 💬 Ask me about Javascript & 
+- 💬 Ask me about Javascript(Node JS, React JS, Node JS)
 - 📫 How to reach me: Use my twitter account at https://twitter.com/achille_songa
 - ⚡ Fun fact: Once, I dreamt that I could be the best singer in the world.
 
