@@ -12,6 +12,7 @@ I am Achille Songa, a full-stack software engineer based in Rwanda.
 
 [![songa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=songa1)](https://github.com/songa1/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songa1)](https://github.com/songa1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songa1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
