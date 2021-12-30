@@ -2,13 +2,13 @@
 
 I am Achille Songa, a full-stack software engineer based in Rwanda.
 
-- 🔭 I’m currently working on my blog https://achillesonga.com
-- 🌱 I’m currently learning C Programming
+- 🔭 I am looking for a good design for my personal portfolio+blog https://achillesonga.com
+- 🌱 I’m currently working on personal projects and teaching
 - 👯 I’m looking to collaborate on web development projects
 - 🤔 I’m looking for help with joining communities and teams
-- 💬 Ask me about Javascript(Node JS, React JS, Node JS)
+- 💬 Ask me about Javascript(Express JS, React JS, Node JS, React native, Next JS<, Jquery, Ajax)
 - 📫 How to reach me: Use my twitter account at https://twitter.com/achille_songa
-- ⚡ Fun fact: Once, I dreamt that I could be the best singer in the world.
+- ⚡ Fun fact: I am an introvert
 
 [![songa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=songa1)](https://github.com/songa1/github-readme-stats)
 
