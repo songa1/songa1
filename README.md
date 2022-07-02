@@ -7,7 +7,7 @@ I am Achille Songa, a full-stack software engineer based in Rwanda.
 - 👯 I like collaboration.
 - 🤔 I’m joining tech communities.
 - 💬 Ask me about HTML, CSS, Javascript(Express JS, React JS, Node JS, React native, Next JS, Jquery, Ajax)
-- 📫 How to reach me: Use my twitter account at https://twitter.com/achille_songa
+- 📫 How to reach me: Use my twitter account at https://achillesonga.com
 - ⚡ Fun fact: I am an introvert
 
 [![songa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=songa1)](https://github.com/songa1/github-readme-stats)
