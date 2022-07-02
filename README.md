@@ -2,11 +2,11 @@
 
 I am Achille Songa, a full-stack software engineer based in Rwanda.
 
-- 🔭 I am looking for a good design for my personal portfolio+blog https://achillesonga.com
-- 🌱 I’m currently working on personal projects and teaching
-- 👯 I’m looking to collaborate on web development projects
-- 🤔 I’m looking for help with joining communities and teams
-- 💬 Ask me about Javascript(Express JS, React JS, Node JS, React native, Next JS<, Jquery, Ajax)
+- 🔭 My Personal Website: https://achillesonga.com
+- 🌱 I’m currently learning and working on open source projects.
+- 👯 I like collaboration.
+- 🤔 I’m joining tech communities.
+- 💬 Ask me about HTML, CSS, Javascript(Express JS, React JS, Node JS, React native, Next JS, Jquery, Ajax)
 - 📫 How to reach me: Use my twitter account at https://twitter.com/achille_songa
 - ⚡ Fun fact: I am an introvert
 
