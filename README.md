@@ -2,7 +2,7 @@
 
 I am Achille Songa, a full-stack software engineer based in Rwanda.
 
-- 🔭 My Personal Website: https://achillesonga.com
+- 🔭 My Personal Website: https://achillesonga.net
 - 🌱 I’m currently learning and working on open source projects.
 - 👯 I like collaboration.
 - 🤔 I’m joining tech communities.
